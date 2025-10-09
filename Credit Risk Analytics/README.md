@@ -104,6 +104,11 @@ This project transforms data into decisions — linking portfolio metrics and bo
 By uncovering *how* and *where* risk emerges, it enables Nova Bank to set smarter thresholds (DTI/LTI limits, pricing, and monitoring rules) that protect the institution **while keeping access fair and inclusive**.
 
 ---
+## 📈 Dashboard Preview
+
+*Interact directly with the dashboard in Power BI Service.*
+
+https://app.powerbi.com/view?r=eyJrIjoiMzVlOGNlNDQtNmI3Yi00YTlmLWExYjQtZGU5ZjM2M2ExYmZjIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9
 
 📊 **Dashboard built with:** Power BI, DAX, Power Query, Azure Maps, ZoomCharts PRO  
 ✉️ *Created by Jessica Herrera — Data Analytics | Pharma & Biodiversity Background*
