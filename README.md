@@ -28,8 +28,9 @@ To demonstrate my ability to turn data into actionable insights through every st
 
 | Project | Description | Link |
 |----------|--------------|------|
-| **Credit Risk Analysis Dashboard** | Power BI report that evaluates loan performance, identifies borrower risk patterns, and measures portfolio health using DAX KPIs and interactive visuals. | ![Static Badge](https://img.shields.io/badge/view%20report-github?style=social&logo=github&link=https%3A%2F%2Fgithub.com%2FJessiHP%2FPowerBi_Dashboard%2Fblob%2Fmain%2FCredit%2520Risk%2520Analytics%2FREADME.md)
-| **HR Analytics – Workforce & Performance Dashboard** | Interactive Power BI dashboard focused on employee satisfaction, turnover, and performance alignment with business results. | ![Static Badge](https://img.shields.io/badge/view%20report-github?style=social&logo=github&link=https%3A%2F%2Fgithub.com%2FJessiHP%2FPowerBi_Dashboard%2Fblob%2Fmain%2FHR%2520Analytics%2FREADME.md)
+| **Credit Risk Analysis Dashboard** | Power BI report that evaluates loan performance, identifies borrower risk patterns, and measures portfolio health using DAX KPIs and interactive visuals. | ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub.com%2FJessiHP%2FPowerBi_Dashboard%2Fblob%2Fmain%2FCredit%2520Risk%2520Analytics%2FREADME.md&query=%24.github&prefix=%20view%20report&style=social&logo=github&label=view%20report)
+
+| **HR Analytics – Workforce & Performance Dashboard** | Interactive Power BI dashboard focused on employee satisfaction, turnover, and performance alignment with business results. | [![Github](https://img.shields.io/badge/view%20report-github?style=social&logo=github)](https://github.com/JessiHP/PowerBi_Dashboard/blob/main/Credit%20Risk%20Analytics/README.md)
 
 
 ## 💬 Final Reflection
@@ -47,3 +48,8 @@ For more information, suggestions, or feedback, please feel free to contact me o
 - [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat&logo=github&logoColor=white)](https://github.com/JessiHP)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jmhp)
 - ![Static Badge](https://img.shields.io/badge/Contact-gmail?style=social&logo=gmail) - jessicam.hrra@gmail.com
+
+
+[![View Report](https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat&logo=github&logoColor=white)](https://github.com/JessiHP/PowerBi_Dashboard/blob/main/Credit%20Risk%20Analytics/README.md)
+
+[View Report] (/Credit%20Risk%20Analytics/README.md)
